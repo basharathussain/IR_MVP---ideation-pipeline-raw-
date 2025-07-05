@@ -11,5 +11,7 @@ Start a Docker Desktop
 
 Crawl4AI docker image: unclecode/crawl4ai >> Search in docker images and pull it.
 
+Sign up here and download ngrok also
+https://dashboard.ngrok.com/login
 
 
