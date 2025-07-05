@@ -3,7 +3,7 @@
 Start a Docker Desktop 
 
 **Enable Features on Windows: ** 
-- Virtuallization
+- Virtualization
 - HyperV
 - Hypervisor Platform
 - VM Platform
