@@ -9,7 +9,7 @@ Start a Docker Desktop
 - VM Platform
 
 
-Crawl4AI docker image: unclecode/crawl4ai >> search in docker iamges and pull it.
+Crawl4AI docker image: unclecode/crawl4ai >> Search in docker images and pull it.
 
 
 
