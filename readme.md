@@ -8,3 +8,8 @@ Start a Docker Desktop
 - Hypervisor Platform
 - VM Platform
 
+
+Crawl4AI docker image: unclecode/crawl4ai >> search in docker iamges and pull it.
+
+
+
