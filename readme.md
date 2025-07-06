@@ -66,6 +66,7 @@ command: ngrok http http://localhost:11235/
 
 
 (base) PS E:\_src_agenticai\IR-platform-2025\n8n-variables> docker compose up -d
+
 time="2025-07-06T16:01:56+05:00" level=warning msg="E:\\_src_agenticai\\IR-platform-2025\\n8n-variables\\docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
 [+] Running 13/15
  - crawl4ai [⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿]   885MB / 887.5MB Pulling                                                           317.0s
