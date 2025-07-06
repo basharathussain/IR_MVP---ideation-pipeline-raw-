@@ -22,3 +22,5 @@ Cmd (run as admin):
 - List all images: docker images
 - List all containers: docker ps -a
 - Read **containerid** and **ports** and then execute command: docker exec -it [2f5]  /bin/sh
+- $ You can use the command "ls" to list documents in the container.
+- 
