@@ -1,18 +1,12 @@
 # IR Pipeline ref
 .
-Start a Docker Desktop 
-
+Start a **Docker Desktop 
+**
 **Enable Features on Windows: ** 
 - Virtualization
 - HyperV
 - Hypervisor Platform
 - VM Platform
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Sign up here and download ngrok also
-https://dashboard.ngrok.com/login
-
-Register authtoken command on ngrok.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -52,6 +46,17 @@ C:\Windows\system32>wsl --list -v
 * docker-desktop    Running         2
   Ubuntu            Running         2
 
+in CHrome now: [access](http://localhost:11235/) should display default page 
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+ngrok installation:
+-----------------
  
+Sign up here and download ngrok
+https://dashboard.ngrok.com/login 
+
+Register authtoken command on ngrok.
+
+command: ngrok http http://localhost:11235/
+
