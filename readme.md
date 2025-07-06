@@ -26,5 +26,15 @@ Cmd (run as admin):
 
 
 WSL installation:
+You can install Ubuntu cleanly from the Microsoft Store:
 
-- Microsoft store -> search app "Ubuntu 24.04.1 LTS" and install.
+Open Microsoft Store
+
+Search for “Ubuntu”
+
+Choose your version (e.g., "Ubuntu 24.04.1 LTS")
+
+Click Install
+
+Launch it and it should complete setup.
+ 
