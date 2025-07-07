@@ -84,3 +84,21 @@ time="2025-07-06T16:01:56+05:00" level=warning msg="E:\\_src_agenticai\\IR-platf
    ✔ 1725cd9e6d04 Download complete                                                                              135.0s
    ✔ 5862c84e1a84 Pull complete                                                                                    2.2s
    ✔ fd2c9b930c68 Pull complete                                                                                  226.3s
+
+Note: Run the Docker Composer when both docker desktop and ubuntu are running:
+
+C:\Windows\system32>wsl --list -v
+
+  NAME              STATE           VERSION
+  
+* docker-desktop    Running         2
+  
+  Ubuntu            Running         2
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Postgres 17
+
+digitalocean cloud
+
+
+  
